@@ -40,6 +40,50 @@ a {
     gap: 41px;
 }
 
+.logo_icon img {
+    width: 44px;
+}
+
+.search_icon img {
+    width: 26px;
+}
+
+.menu__button img {
+    width: 32px;
+}
+
+.menu_person img {
+    width: 29px;
+}
+
+.menu_buy_shop img {
+    width: 32px;
+}
+
+.top__img img {
+    width: 800px;
+}
+
+.product__add img {
+    width: 27px;
+}
+
+.feature_truck img {
+    width:45px;
+}
+
+.feature_discount img {
+    width: 40px;
+}
+
+.feature_crown img {
+    width: 47px;
+}
+
+.review__info img {
+    width: 96px;
+}
+
 .menu_right {
     display: flex;
     gap: 33px;
@@ -513,7 +557,7 @@ button {
     height: 80px;
     background-color: #222224;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .copyright a {
